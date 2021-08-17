@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidModule3Lesson2Task1</string>
+    <string name="lang">Language</string>
+    <string name="nick">Nick</string>
+    <string name="graphSettings">Graphics</string>
+    <string name="autoSaveSettings">Autosave</string>
+    <string name="enter_nick">Nick</string>
+    <string name="swGraphSettingsStr" />
+    <string name="sw_AutoSaveStr" />
+</resources>
